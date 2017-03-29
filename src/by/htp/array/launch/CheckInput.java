@@ -1,4 +1,4 @@
-package by.htp.hw3arrays.launch;
+package by.htp.array.launch;
 
 class CheckInput {
 	

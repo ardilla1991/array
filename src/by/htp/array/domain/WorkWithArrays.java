@@ -1,4 +1,4 @@
-package by.htp.hw3arrays.domain;
+package by.htp.array.domain;
 
 public class WorkWithArrays {
 	

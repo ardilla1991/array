@@ -1,7 +1,8 @@
-package by.htp.hw3arrays.launch;
+package by.htp.array.launch;
 
 import java.util.Scanner;
-import by.htp.hw3arrays.domain.WorkWithArrays;
+
+import by.htp.array.domain.WorkWithArrays;
 
 public class Main {
 	
